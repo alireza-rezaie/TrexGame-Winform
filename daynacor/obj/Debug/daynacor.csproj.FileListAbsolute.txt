@@ -1,0 +1,28 @@
+C:\Users\alire\Desktop\daynacor\daynacor\bin\Debug\daynacor.exe.config
+C:\Users\alire\Desktop\daynacor\daynacor\bin\Debug\daynacor.exe
+C:\Users\alire\Desktop\daynacor\daynacor\bin\Debug\daynacor.pdb
+C:\Users\alire\Desktop\daynacor\daynacor\obj\Debug\daynacor.csprojResolveAssemblyReference.cache
+C:\Users\alire\Desktop\daynacor\daynacor\obj\Debug\daynacor.Form1.resources
+C:\Users\alire\Desktop\daynacor\daynacor\obj\Debug\daynacor.Properties.Resources.resources
+C:\Users\alire\Desktop\daynacor\daynacor\obj\Debug\daynacor.csproj.GenerateResource.Cache
+C:\Users\alire\Desktop\daynacor\daynacor\obj\Debug\daynacor.exe
+C:\Users\alire\Desktop\daynacor\daynacor\obj\Debug\daynacor.pdb
+D:\taghipor fainal\daynacor\daynacor\bin\Debug\daynacor.exe.config
+D:\taghipor fainal\daynacor\daynacor\obj\Debug\daynacor.exe
+D:\taghipor fainal\daynacor\daynacor\obj\Debug\daynacor.pdb
+D:\taghipor fainal\daynacor\daynacor\bin\Debug\daynacor.exe
+D:\taghipor fainal\daynacor\daynacor\bin\Debug\daynacor.pdb
+D:\taghipor fainal\daynacor\daynacor\obj\Debug\daynacor.csprojResolveAssemblyReference.cache
+D:\taghipor fainal\daynacor\daynacor\obj\Debug\daynacor.Form1.resources
+D:\taghipor fainal\daynacor\daynacor\obj\Debug\daynacor.Properties.Resources.resources
+D:\taghipor fainal\daynacor\daynacor\obj\Debug\daynacor.csproj.GenerateResource.Cache
+D:\2proge ha\proje ha\3windows\proje c#\eree\daynasor\daynacor1\daynacor\bin\Debug\daynacor.exe.config
+D:\2proge ha\proje ha\3windows\proje c#\eree\daynasor\daynacor1\daynacor\bin\Debug\daynacor.exe
+D:\2proge ha\proje ha\3windows\proje c#\eree\daynasor\daynacor1\daynacor\bin\Debug\daynacor.pdb
+D:\2proge ha\proje ha\3windows\proje c#\eree\daynasor\daynacor1\daynacor\obj\Debug\daynacor.csproj.AssemblyReference.cache
+D:\2proge ha\proje ha\3windows\proje c#\eree\daynasor\daynacor1\daynacor\obj\Debug\daynacor.Form1.resources
+D:\2proge ha\proje ha\3windows\proje c#\eree\daynasor\daynacor1\daynacor\obj\Debug\daynacor.Properties.Resources.resources
+D:\2proge ha\proje ha\3windows\proje c#\eree\daynasor\daynacor1\daynacor\obj\Debug\daynacor.csproj.GenerateResource.cache
+D:\2proge ha\proje ha\3windows\proje c#\eree\daynasor\daynacor1\daynacor\obj\Debug\daynacor.csproj.CoreCompileInputs.cache
+D:\2proge ha\proje ha\3windows\proje c#\eree\daynasor\daynacor1\daynacor\obj\Debug\daynacor.exe
+D:\2proge ha\proje ha\3windows\proje c#\eree\daynasor\daynacor1\daynacor\obj\Debug\daynacor.pdb
